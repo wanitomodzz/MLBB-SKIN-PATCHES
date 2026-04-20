@@ -1,5 +1,5 @@
-img_1 : 
-img_2 : 
-img_3 : 
-img_4 : 
+img_1 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/2x.png?raw=true
+img_2 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/4x.png?raw=true
+img_3 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/6x.png?raw=true
+img_4 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/8x.png?raw=true
 img_5 : 
