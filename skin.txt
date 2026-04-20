@@ -8,7 +8,7 @@ img_7 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/hea
 img_8 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/17.png
 img_9 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/9.png
 img_10 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/17.png
-img_11 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/11png
+img_11 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/11.png
 img_12 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/17.png
 img_13 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/13.png
 img_14 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/17.png
