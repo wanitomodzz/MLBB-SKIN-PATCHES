@@ -3,7 +3,7 @@ img_2 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/4x.png?raw=tr
 img_3 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/6x.png?raw=true
 img_4 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/8x.png?raw=true
 img_5 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/buffdmg.png?raw=true
-img_6 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/ms.png?raw=true
+img_6 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/ms.png
 img_7 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/fps.png?raw=true
 img_8 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/gpu.png?raw=true
 img_9 : 
