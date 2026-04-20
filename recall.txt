@@ -8,3 +8,19 @@ img_7 : https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_R
 img_8 : https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645
 img_9 : https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619
 img_10 : https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728
+img_11 : https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542
+img_12 : https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508
+img_13 : https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328
+img_14 : https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112
+img_15 : https://static.wikia.nocookie.net/mobile-legends/images/7/71/The_Oriental_Fighters_Recall_Effect.png/revision/latest?cb=20211204085044
+img_16 : https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025
+img_17 : https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955
+img_18 : https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915
+img_19 : https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857
+img_20 : https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Super_Return_Recall_Effect.png/revision/latest?cb=20211204084825
+img_21 : https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739
+img_22 : https://static.wikia.nocookie.net/mobile-legends/images/6/67/The_Return_of_The_Sword_Recall_Effect.png/revision/latest?cb=20211204084711
+img_23 : https://static.wikia.nocookie.net/mobile-legends/images/9/96/Champion%27s_Return_Recall_Effect.png/revision/latest?cb=20211204084640
+img_24 : https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612
+img_25 : https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510
+img_26 : 
