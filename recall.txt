@@ -1,0 +1,10 @@
+img_1 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHES/refs/heads/main/Backup%20Recall.png
+img_2 : https://raw.githubusercontent.com/user/repo/main/images/recall_2.png
+img_3 : https://raw.githubusercontent.com/user/repo/main/images/recall_3.png
+img_4 : https://raw.githubusercontent.com/user/repo/main/images/recall_4.png
+img_5 : https://raw.githubusercontent.com/user/repo/main/images/recall_5.png
+img_6 : https://raw.githubusercontent.com/user/repo/main/images/recall_6.png
+img_7 : https://raw.githubusercontent.com/user/repo/main/images/recall_7.png
+img_8 : https://raw.githubusercontent.com/user/repo/main/images/recall_8.png
+img_9 : https://raw.githubusercontent.com/user/repo/main/images/recall_9.png
+img_10 : https://raw.githubusercontent.com/user/repo/main/images/recall_10.png
