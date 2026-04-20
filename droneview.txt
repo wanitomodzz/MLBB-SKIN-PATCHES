@@ -6,4 +6,4 @@ img_5 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/buffdmg.png?r
 img_6 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/ms.png
 img_7 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/fps.png?raw=true
 img_8 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/gpu.png?raw=true
-img_9 : 
+img_9 : https://github.com/wanitomodzz/MLBB-SKIN-PATCHER/blob/main/no.png?raw=true
